@@ -183,3 +183,36 @@ async def finish_test(query, user_id):
         f"Your CEFR Level: {level}\n\n"
         "Thank you for using Open Talk Placement Test 🎓"
     )
+def main():
+
+    app = Application.builder().token(TOKEN).build()
+
+    app.add_handler(
+        CommandHandler(
+            "start",
+            start
+        )
+    )
+
+    app.add_handler(
+        CallbackQueryHandler(
+            button_handler,
+            pattern="start_test"
+        )
+    )
+
+    app.add_handler(
+        CallbackQueryHandler(
+            answer_handler,
+            pattern="answer_"
+        )
+    )
+
+    print("Open Talk Placement Test Bot is running...")
+
+    app.run_polling()
+
+
+
+if __name__ == "__main__":
+    main()
