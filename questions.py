@@ -324,7 +324,137 @@ QUESTIONS = [
             "improve"
         ],
         "answer": 2
+    },    {
+        "id": 31,
+        "type": "vocabulary",
+        "question": "Meticulous means:",
+        "options": [
+            "careless",
+            "extremely careful",
+            "lazy",
+            "nervous"
+        ],
+        "answer": 1
     },
+
+    {
+        "id": 32,
+        "type": "vocabulary",
+        "question": "Ambiguous means:",
+        "options": [
+            "clear",
+            "uncertain",
+            "expensive",
+            "noisy"
+        ],
+        "answer": 1
+    },
+
+    {
+        "id": 33,
+        "type": "vocabulary",
+        "question": "Alleviate means:",
+        "options": [
+            "worsen",
+            "reduce",
+            "create",
+            "ignore"
+        ],
+        "answer": 1
+    },
+
+    {
+        "id": 34,
+        "type": "vocabulary",
+        "question": "The witness gave a ___ statement.",
+        "options": [
+            "contradictory",
+            "delicious",
+            "comfortable",
+            "heavy"
+        ],
+        "answer": 0
+    },
+
+    {
+        "id": 35,
+        "type": "vocabulary",
+        "question": "Feasible means:",
+        "options": [
+            "impossible",
+            "practical",
+            "expensive",
+            "dangerous"
+        ],
+        "answer": 1
+    },
+
+    {
+        "id": 36,
+        "type": "vocabulary",
+        "question": "Scrutinize means:",
+        "options": [
+            "examine carefully",
+            "destroy",
+            "forget",
+            "copy"
+        ],
+        "answer": 0
+    },
+
+    {
+        "id": 37,
+        "type": "vocabulary",
+        "question": "The proposal was unanimously:",
+        "options": [
+            "rejected",
+            "approved",
+            "ignored",
+            "forgotten"
+        ],
+        "answer": 1
+    },
+
+    {
+        "id": 38,
+        "type": "vocabulary",
+        "question": "Inevitable means:",
+        "options": [
+            "avoidable",
+            "impossible to avoid",
+            "doubtful",
+            "temporary"
+        ],
+        "answer": 1
+    },
+
+    {
+        "id": 39,
+        "type": "vocabulary",
+        "question": "Pragmatic means:",
+        "options": [
+            "practical",
+            "emotional",
+            "careless",
+            "selfish"
+        ],
+        "answer": 0
+    },
+
+    {
+        "id": 40,
+        "type": "vocabulary",
+        "question": "Obsolete means:",
+        "options": [
+            "modern",
+            "outdated",
+            "useful",
+            "famous"
+        ],
+        "answer": 1
+    }
+
+]
     {
         "id": 20,
         "type": "grammar",
