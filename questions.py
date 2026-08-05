@@ -196,7 +196,135 @@ QUESTIONS = [
         ],
         "answer": 1
     },
+    {
+        "id": 21,
+        "type": "vocabulary",
+        "question": "Huge means:",
+        "options": [
+            "tiny",
+            "enormous",
+            "narrow",
+            "weak"
+        ],
+        "answer": 1
+    },
 
+    {
+        "id": 22,
+        "type": "vocabulary",
+        "question": "A doctor works in a:",
+        "options": [
+            "bank",
+            "school",
+            "hospital",
+            "factory"
+        ],
+        "answer": 2
+    },
+
+    {
+        "id": 23,
+        "type": "vocabulary",
+        "question": "Honest means:",
+        "options": [
+            "truthful",
+            "lazy",
+            "noisy",
+            "angry"
+        ],
+        "answer": 0
+    },
+
+    {
+        "id": 24,
+        "type": "vocabulary",
+        "question": "Borrow means:",
+        "options": [
+            "give permanently",
+            "take and return",
+            "buy",
+            "throw away"
+        ],
+        "answer": 1
+    },
+
+    {
+        "id": 25,
+        "type": "vocabulary",
+        "question": "Ancient means:",
+        "options": [
+            "modern",
+            "old",
+            "expensive",
+            "beautiful"
+        ],
+        "answer": 1
+    },
+
+    {
+        "id": 26,
+        "type": "vocabulary",
+        "question": "Reluctant means:",
+        "options": [
+            "eager",
+            "unwilling",
+            "happy",
+            "excited"
+        ],
+        "answer": 1
+    },
+
+    {
+        "id": 27,
+        "type": "vocabulary",
+        "question": "Reliable means:",
+        "options": [
+            "trustworthy",
+            "dangerous",
+            "careless",
+            "expensive"
+        ],
+        "answer": 0
+    },
+
+    {
+        "id": 28,
+        "type": "vocabulary",
+        "question": "The company will ___ new workers.",
+        "options": [
+            "employ",
+            "destroy",
+            "refuse",
+            "remove"
+        ],
+        "answer": 0
+    },
+
+    {
+        "id": 29,
+        "type": "vocabulary",
+        "question": "He was accused ___ stealing.",
+        "options": [
+            "with",
+            "of",
+            "for",
+            "by"
+        ],
+        "answer": 1
+    },
+
+    {
+        "id": 30,
+        "type": "vocabulary",
+        "question": "The opposite of expand is:",
+        "options": [
+            "increase",
+            "grow",
+            "contract",
+            "improve"
+        ],
+        "answer": 2
+    },
     {
         "id": 20,
         "type": "grammar",
