@@ -140,6 +140,8 @@ QUESTIONS = [
         "id": 15,
         "type": "grammar",
         "question": "If he had studied harder, he ___ the exam.",
+
+        
         "options": [
             "passed",
             "would pass",
@@ -147,4 +149,63 @@ QUESTIONS = [
             "had passed"
         ],
         "answer": 2
+    },
+    {
+        "id": 16,
+        "type": "grammar",
+        "question": "She insisted that he ___ immediately.",
+        "options": ["leaves", "left", "leave", "leaving"],
+        "answer": 2
+    },
+
+    {
+        "id": 17,
+        "type": "grammar",
+        "question": "Not only ___ late, but he also forgot the documents.",
+        "options": [
+            "he was",
+            "was he",
+            "he is",
+            "is he"
+        ],
+        "answer": 1
+    },
+
+    {
+        "id": 18,
+        "type": "grammar",
+        "question": "Scarcely ___ the station when the train left.",
+        "options": [
+            "had we reached",
+            "we reached",
+            "did we reach",
+            "we had reached"
+        ],
+        "answer": 0
+    },
+
+    {
+        "id": 19,
+        "type": "grammar",
+        "question": "I'd rather you ___ me before coming.",
+        "options": [
+            "call",
+            "called",
+            "have called",
+            "calling"
+        ],
+        "answer": 1
+    },
+
+    {
+        "id": 20,
+        "type": "grammar",
+        "question": "Were I ___ your position, I'd decline the offer.",
+        "options": [
+            "in",
+            "at",
+            "on",
+            "into"
+        ],
+        "answer": 0
     },
