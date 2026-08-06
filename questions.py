@@ -44,6 +44,7 @@ QUESTIONS = [
         ],
         "answer": 1
     },
+
     {
         "id": 6,
         "type": "grammar",
@@ -140,8 +141,6 @@ QUESTIONS = [
         "id": 15,
         "type": "grammar",
         "question": "If he had studied harder, he ___ the exam.",
-
-        
         "options": [
             "passed",
             "would pass",
@@ -150,6 +149,7 @@ QUESTIONS = [
         ],
         "answer": 2
     },
+
     {
         "id": 16,
         "type": "grammar",
@@ -196,265 +196,7 @@ QUESTIONS = [
         ],
         "answer": 1
     },
-    {
-        "id": 21,
-        "type": "vocabulary",
-        "question": "Huge means:",
-        "options": [
-            "tiny",
-            "enormous",
-            "narrow",
-            "weak"
-        ],
-        "answer": 1
-    },
 
-    {
-        "id": 22,
-        "type": "vocabulary",
-        "question": "A doctor works in a:",
-        "options": [
-            "bank",
-            "school",
-            "hospital",
-            "factory"
-        ],
-        "answer": 2
-    },
-
-    {
-        "id": 23,
-        "type": "vocabulary",
-        "question": "Honest means:",
-        "options": [
-            "truthful",
-            "lazy",
-            "noisy",
-            "angry"
-        ],
-        "answer": 0
-    },
-
-    {
-        "id": 24,
-        "type": "vocabulary",
-        "question": "Borrow means:",
-        "options": [
-            "give permanently",
-            "take and return",
-            "buy",
-            "throw away"
-        ],
-        "answer": 1
-    },
-
-    {
-        "id": 25,
-        "type": "vocabulary",
-        "question": "Ancient means:",
-        "options": [
-            "modern",
-            "old",
-            "expensive",
-            "beautiful"
-        ],
-        "answer": 1
-    },
-
-    {
-        "id": 26,
-        "type": "vocabulary",
-        "question": "Reluctant means:",
-        "options": [
-            "eager",
-            "unwilling",
-            "happy",
-            "excited"
-        ],
-        "answer": 1
-    },
-
-    {
-        "id": 27,
-        "type": "vocabulary",
-        "question": "Reliable means:",
-        "options": [
-            "trustworthy",
-            "dangerous",
-            "careless",
-            "expensive"
-        ],
-        "answer": 0
-    },
-
-    {
-        "id": 28,
-        "type": "vocabulary",
-        "question": "The company will ___ new workers.",
-        "options": [
-            "employ",
-            "destroy",
-            "refuse",
-            "remove"
-        ],
-        "answer": 0
-    },
-
-    {
-        "id": 29,
-        "type": "vocabulary",
-        "question": "He was accused ___ stealing.",
-        "options": [
-            "with",
-            "of",
-            "for",
-            "by"
-        ],
-        "answer": 1
-    },
-
-    {
-        "id": 30,
-        "type": "vocabulary",
-        "question": "The opposite of expand is:",
-        "options": [
-            "increase",
-            "grow",
-            "contract",
-            "improve"
-        ],
-        "answer": 2
-    },    {
-        "id": 31,
-        "type": "vocabulary",
-        "question": "Meticulous means:",
-        "options": [
-            "careless",
-            "extremely careful",
-            "lazy",
-            "nervous"
-        ],
-        "answer": 1
-    },
-
-    {
-        "id": 32,
-        "type": "vocabulary",
-        "question": "Ambiguous means:",
-        "options": [
-            "clear",
-            "uncertain",
-            "expensive",
-            "noisy"
-        ],
-        "answer": 1
-    },
-
-    {
-        "id": 33,
-        "type": "vocabulary",
-        "question": "Alleviate means:",
-        "options": [
-            "worsen",
-            "reduce",
-            "create",
-            "ignore"
-        ],
-        "answer": 1
-    },
-
-    {
-        "id": 34,
-        "type": "vocabulary",
-        "question": "The witness gave a ___ statement.",
-        "options": [
-            "contradictory",
-            "delicious",
-            "comfortable",
-            "heavy"
-        ],
-        "answer": 0
-    },
-
-    {
-        "id": 35,
-        "type": "vocabulary",
-        "question": "Feasible means:",
-        "options": [
-            "impossible",
-            "practical",
-            "expensive",
-            "dangerous"
-        ],
-        "answer": 1
-    },
-
-    {
-        "id": 36,
-        "type": "vocabulary",
-        "question": "Scrutinize means:",
-        "options": [
-            "examine carefully",
-            "destroy",
-            "forget",
-            "copy"
-        ],
-        "answer": 0
-    },
-
-    {
-        "id": 37,
-        "type": "vocabulary",
-        "question": "The proposal was unanimously:",
-        "options": [
-            "rejected",
-            "approved",
-            "ignored",
-            "forgotten"
-        ],
-        "answer": 1
-    },
-
-    {
-        "id": 38,
-        "type": "vocabulary",
-        "question": "Inevitable means:",
-        "options": [
-            "avoidable",
-            "impossible to avoid",
-            "doubtful",
-            "temporary"
-        ],
-        "answer": 1
-    },
-
-    {
-        "id": 39,
-        "type": "vocabulary",
-        "question": "Pragmatic means:",
-        "options": [
-            "practical",
-            "emotional",
-            "careless",
-            "selfish"
-        ],
-        "answer": 0
-    },
-
-    {
-        "id": 40,
-        "type": "vocabulary",
-        "question": "Obsolete means:",
-        "options": [
-            "modern",
-            "outdated",
-            "useful",
-            "famous"
-        ],
-        "answer": 1
-    }
-
-]
     {
         "id": 20,
         "type": "grammar",
